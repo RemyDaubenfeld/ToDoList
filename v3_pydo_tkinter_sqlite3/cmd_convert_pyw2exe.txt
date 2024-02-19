@@ -1,0 +1,4 @@
+# Commande pour transformer le fichier .pyw en fichier .exe
+
+
+pyinstaller --hidden-import babel.numbers --icon="img/logo.ico"  tout_doux_liste.pyw
